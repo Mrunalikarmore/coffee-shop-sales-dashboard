@@ -27,25 +27,33 @@ Barista Espresso generates the highest revenue among all product types,Followed 
 
 Business Meaning:
 Customers show a strong preference for espresso-based and hot beverages, indicating that premium and freshly prepared drinks drive the most revenue.
+
 Business Action:
+
 ✔ Focus promotions on top-performing beverages
 ✔ Ensure sufficient stock during peak hours
 
 2. Top Product Categories
 Coffee is the top-performing category.Bakery items contribute a significant share, often purchased as add-ons.
+
 Business Meaning:
 Customers frequently combine beverages with food items, increasing average order value.
+
 ✔ Create combo offers (Coffee + Bakery)
+
 
 3. Product Size Preference
 Large-sized products have the highest purchase count.
 Customers prefer value-for-money or larger serving sizes 
 
+
 4. Best Performing Store
 The Lower Manhattan store generates the highest sales, indicating strong customer footfall in that location.
 
+
 5.Peak Sales Time
 Sales are highest during morning hours, indicating customers prefer coffee before work or during morning breaks.
+
 Business Meaning:
 shop should have high stock at peak hours and shopkeeper may offer some type of discounts during morning.
 
